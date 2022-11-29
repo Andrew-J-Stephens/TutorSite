@@ -22,7 +22,7 @@
 /* a. General Styles
 /* ------------------------------------------------------------------ */
 
-body { background: #0f0f0f; }
+body { background: #fff; }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -116,6 +116,9 @@ header .scrolldown a:hover { color: #0762f9; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
+#nav {
+   border-radius: 5px;
+}
 #nav-wrap ul, #nav-wrap li, #nav-wrap a {
 	 margin: 0;
 	 padding: 0;
@@ -135,7 +138,7 @@ header .scrolldown a:hover { color: #0762f9; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: #fff; }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -182,7 +185,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #000524;
+   background: #34495e ;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -789,7 +792,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #contact {
-   background: #191919;
+   background: #fff;
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
@@ -977,7 +980,7 @@ footer .social-links li {
 
 footer .social-links li:first-child { margin-left: 0; }
 
-/* Go To Top Button */
+/* Go To Top ``tton */
 #go-top {
 	position: absolute;
 	top: -24px;
