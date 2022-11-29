@@ -1,0 +1,33 @@
+{
+  "main": {
+    "name":"Andrew Stephens",
+    "description":"Professional Web Developer/Toronto Metropolitan University 4th year Software Engineering student. teaches beginner-advanced math, physics and computer programming from middle school to university level in Toronto, Ontario",
+    "image":"headshot.jpg",
+    "bio":"Professional Web Developer/Toronto Metropolitan University 4th year Software Engineering student 3.3GPA. teaches math, physics and computer programming from middle school to university level in Toronto",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "andrew.j.stephens@ryerson.ca",
+    "phone": "(647)-447-5534",
+    "github":"https://github.com/andrew-j-stephens",
+    "address":{
+      "street":" 25 Grenville St",
+      "city":"Toronto",
+      "state":"Ontario",
+      "zip": "M4Y2X5"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/andrewstephens08/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/andrew-j-stephens",
+        "className":"fa fa-github"
+      }
+    ]
+  }
+  
+}
